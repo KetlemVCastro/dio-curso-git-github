@@ -28,6 +28,7 @@ $ git config --global --unset alias.st
 - My Octocat: [https://myoctocat.com/](https://myoctocat.com/)
 - GitHub Desktop: [https://desktop.github.com/](https://desktop.github.com/)
 - GitHub Pages: [https://docs.github.com/en/pages/getting-started-with-github-pages](https://docs.github.com/en/pages/getting-started-with-github-pages)
+- Learn X in Y: [https://learnxinyminutes.com/docs/pt-br/git-pt/](https://learnxinyminutes.com/docs/pt-br/git-pt/)
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
